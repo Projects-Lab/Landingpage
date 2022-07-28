@@ -17,24 +17,12 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{route('about')}}">¿Quienes Somos?</a>
+                                <a class="nav-link" href="{{route('about')}}">¿Nosotros?</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('service')}}">Servicios</a>
                             </li>
-                            {{-- <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Espacios
-                                </a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="404.html">Meetings</a>
-                                    <a class="dropdown-item" href="gallery.html">Prototipos</a>
-                                    <a class="dropdown-item" href="single-post.html">Coworkers</a>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link" href="blog-left-sidebar.html">Blog</a>
-                            </li> --}}
+
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('contact')}}">Contactenos</a>
                             </li>
