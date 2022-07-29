@@ -17,7 +17,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{route('about')}}">¿Nosotros?</a>
+                                <a class="nav-link" href="{{route('about')}}">Nosotros</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('service')}}">Servicios</a>
