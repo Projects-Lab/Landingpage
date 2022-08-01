@@ -22,9 +22,11 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('service')}}">Servicios</a>
                             </li>
-
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('contact')}}">Contactenos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{route('service')}}">Ingresar</a>
                             </li>
                         </ul>
                     </div>
